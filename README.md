@@ -54,7 +54,7 @@ For these tests we ran three scenarios:
 ### to run each test you must type the following commands in the console:
 
 ### Test 1: ./demographics.js
-### Test 2; ./tocolleges.js
+### Test 2; ./topcolleges.js
 ### Test 3: ./salary.js
 
 <br>
